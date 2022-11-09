@@ -4,27 +4,11 @@
                        'n c';
   grid-template-rows:  60px 1fr;
   grid-template-columns: 2fr 10fr;
-  grid-gap: 5px;
+  grid-gap: 8px;
   width: 1920px;
 
-}
-.header{
-  background-color: aqua;
-  grid-area: h;
-}
-.header img{
-  width: 50px;
-}
-.nav{
-  background-color: orchid;
-  grid-area: n;
-}
 
-.content{
-  background-color: burlywood;
-  grid-area: c;
 }
-
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

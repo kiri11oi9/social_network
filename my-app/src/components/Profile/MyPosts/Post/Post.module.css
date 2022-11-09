@@ -1,0 +1,15 @@
+.content{
+    background-color: #DAEAD9;
+    grid-area: c;
+}
+.item{
+    color: orchid;
+}
+.item img{
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+}
+
+
+
